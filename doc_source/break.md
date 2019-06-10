@@ -37,13 +37,17 @@ A pause then continue.
 ```
 
 #### Amazon Alexa SSML
-```
+```xml
+<speak>
 A pause <break time="250ms"/> then continue.
+</speak>
 ```
 
 #### Google Assistant SSML
-```
+```xml
+<speak>
 A pause <break time="250ms"/> then continue.
+</speak>
 ```
 
 ---
@@ -77,11 +81,15 @@ A pause then continue.
 ```
 
 #### Amazon Alexa SSML
-```
+```xml
+<speak>
 A pause <break strength="weak"/> then continue.
+</speak>
 ```
 
 #### Google Assistant SSML
-```
+```xml
+<speak>
 A pause <break strength="weak"/> then continue.
+</speak>
 ```

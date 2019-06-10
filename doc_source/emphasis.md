@@ -19,8 +19,6 @@ A (none)[emphasis:"none"] level
 A (reduced)[emphasis:"reduced"] level
 ```
 
-## level
-
 Set break length in seconds or milliseconds:
 - strong
 - moderate (default)
@@ -59,7 +57,8 @@ A reduced level
 ```
 
 #### Amazon Alexa SSML
-```
+```xml
+<speak>
 A <emphasis level="strong">strong</emphasis> level
 
 A <emphasis level="moderate">moderate</emphasis> level
@@ -68,10 +67,12 @@ A <emphasis>moderate</emphasis> level
 A <emphasis level="none">none</emphasis> level
 
 A <emphasis level="reduced">reduced</emphasis> level
+</speak>
 ```
 
 #### Google Assistant SSML
-```
+```xml
+<speak>
 A <emphasis level="strong">strong</emphasis> level
 
 A <emphasis level="moderate">moderate</emphasis> level
@@ -80,4 +81,5 @@ A <emphasis>moderate</emphasis> level
 A <emphasis level="none">none</emphasis> level
 
 A <emphasis level="reduced">reduced</emphasis> level
+</speak>
 ```
