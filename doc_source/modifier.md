@@ -2,10 +2,18 @@
 
 A modifier is Speech Markdown that changes the way a word or phrase is spoken.
 
-The format of a modifier is: `(text)[key:"value";...]`
+The typical format of a modifier is: `(text)[key:"value";...]`
+
+Not all modifiers have a value. Multiple modifiers can be applied to the same text.
 
 ```
 This is some (content with modifiers)[volume:"loud";rate:"slow"]
+
+A (moderate)[emphasis] level
+
+(hello)[spell-out]
+
+(10/11/12)[date:"mdy"]
 ```
 
 Modifiers can include the following markdown:

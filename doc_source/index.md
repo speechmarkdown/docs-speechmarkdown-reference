@@ -9,9 +9,12 @@
 + Markdown
     + [audio](audio.md)
     + [break](break.md)
+    + [cardinal](cardinal.md)
     + [emphasis](emphasis.md)
     + [ipa](ipa.md)
     + [lang](lang.md)
+    + [number](number.md)
+    + [ordinal](ordinal.md)
     + [pitch](pitch.md)
     + [rate](rate.md)
     + [sub](sub.md)
