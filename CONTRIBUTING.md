@@ -45,7 +45,7 @@ In addition to written content, we really appreciate new examples and code sampl
 
 ## Code of conduct
 
-This project has adopted the [Speech Markdown Open Source Code of Conduct](https://github.com/speechmarkdown/docs-speechmarkdown-reference/blob/master/CODE-OF-CONDUCT). Contact [opensource-codeofconduct@amazon.com](mailto:opensource-codeofconduct@amazon.com) with any additional questions or comments.
+This project has adopted the [Speech Markdown Open Source Code of Conduct](https://github.com/speechmarkdown/docs-speechmarkdown-reference/blob/master/CODE-OF-CONDUCT). Contact [opensource-codeofconduct@speechmarkdown.org](mailto:opensource-codeofconduct@speechmarkdown.org) with any additional questions or comments.
 
 
 ## Licensing
