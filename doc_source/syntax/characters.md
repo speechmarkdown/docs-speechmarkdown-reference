@@ -2,20 +2,10 @@
 
 Speaks a number or text as individual characters.
 
-The same as
-
-- [digits](../syntax/digits) (numbers only)
-- [spell-out](../syntax/spell-out)
-- [verbatim](../syntax/verbatim)
-
 ```text
 Countdown: (321)[characters]
 
 The word is spelled: (park)[characters]
-
-(801)[digits] is the same as (801)[characters] which is the same as (801)[spell-out] and (801)[verbatim].
-
-(dog)[characters] is the same as (dog)[spell-out] and (dog)[verbatim]
 ```
 
 ---

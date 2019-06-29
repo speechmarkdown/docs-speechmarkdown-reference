@@ -51,3 +51,23 @@ Some elements also have a short format:
 - `[200ms]`
 - `+text+`
 - `++text++`
+
+
+## Another Sample
+This example includes both [sections](section.md) and [modifiers](modifier.md) and *standard* and *short* formats.
+
+Speech Markdown
+```text
+#[voice:'Brian';lang:'en-GB']
+The (quick)[rate:'x-fast'] brown [1s] fox [250ms] ++jumped++ over the lazy dog.
+```
+
+SSML
+```xml
+<speak>
+    <voice name="Brian">
+    <lang xml:lang="en-GB">
+        The <prosody rate="x-fast">quick</prosody> brown <break time="1s"/> fox <break time="250ms"/> <emphasis level="strong">jumped</emphasis> over the lazy dog.
+    </lang>
+</voice>
+```

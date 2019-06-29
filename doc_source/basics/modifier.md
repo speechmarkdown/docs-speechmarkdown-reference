@@ -11,7 +11,7 @@ This is some (content with modifiers)[volume:"loud";rate:"slow"]
 
 A (moderate)[emphasis] level
 
-The word is spelled: (hello)[spell-out]
+The word is spelled: (hello)[characters]
 
 The date is: (10/11/12)[date:"mdy"]
 ```
@@ -24,7 +24,6 @@ Modifiers can include the following markdown:
 + [cardinal](../syntax/cardinal)
 + [characters](../syntax/characters)
 + [date](../syntax/date)
-+ [digits](../syntax/digits)
 + [emphasis](../syntax/emphasis)
 + [expletive / bleep](../syntax/expletive)
 + [fraction](../syntax/fraction)
@@ -36,11 +35,9 @@ Modifiers can include the following markdown:
 + [phone / telephone](../syntax/phone)
 + [pitch](../syntax/pitch)
 + [rate](../syntax/rate)
-+ [spell-out](../syntax/spell-out)
 + [sub](../syntax/sub)
 + [time](../syntax/time)
 + [unit](../syntax/unit)
-+ [verbatim](../syntax/verbatim)
 + [voice](../syntax/voice)
 + [volume / vol](../syntax/volume)
 + [whisper](../syntax/whisper)
