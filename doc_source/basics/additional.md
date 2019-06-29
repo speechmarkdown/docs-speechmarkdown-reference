@@ -83,7 +83,7 @@ Semi-colons are only required when there are two or more modifiers. The trailing
 ```
 
 ## Included SSML
-If SSML is included in a Speech Mardown file, it is not processed. It should be in its own stand-alone paragraph.
+If SSML is included in a Speech Markdown file, it is not processed. It should be in its own stand-alone paragraph.
 
 ```text
 This is the (first)[emphasis] paragraph with Speech Markdown.
