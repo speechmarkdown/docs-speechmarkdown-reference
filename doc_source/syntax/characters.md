@@ -13,7 +13,7 @@ The word is spelled: (park)[chars]
 ### Speech Markdown
 #### Short format
 ```text
-The word is spelled: (park)[chars]
+n/a
 ```
 
 #### Standard format
