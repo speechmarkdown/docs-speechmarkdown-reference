@@ -5,7 +5,7 @@ Speaks a number or text as individual characters.
 ```text
 Countdown: (321)[characters]
 
-The word is spelled: (park)[characters]
+The word is spelled: (park)[chars]
 ```
 
 ---
