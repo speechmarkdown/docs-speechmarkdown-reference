@@ -7,6 +7,12 @@ Plays short, pre-recorded audio.
 Welcome back.
 ```
 
+An optional caption is supported:
+
+```text
+!(our intro)["https://intro.mp3"]
+```
+
 ---
 ## MP3
 
@@ -23,7 +29,7 @@ n/a
 
 #### Standard format
 ```text
-!["https://intro.mp3"]
+!(optional caption)["https://intro.mp3"]
 Welcome back.
 ```
 
@@ -44,7 +50,9 @@ Welcome back.
 #### Google Assistant SSML
 ```xml
 <speak>
-    <audio src="https://intro.mp3"/>
+    <audio src="https://intro.mp3">
+        <desc>optional caption</desc>
+    </audio>
     Welcome back.
 </speak>
 ```
